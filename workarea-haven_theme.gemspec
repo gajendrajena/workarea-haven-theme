@@ -7,8 +7,8 @@ require "workarea/haven_theme/version"
 Gem::Specification.new do |s|
   s.name        = "workarea-haven_theme"
   s.version     = Workarea::HavenTheme::VERSION
-  s.authors     = ["Curt Howard"]
-  s.email       = ["choward@workarea.com"]
+  s.authors     = ["Gajendra Jena"]
+  s.email       = ["gaju.mca@gmail.com"]
   s.homepage    = "https://stash.tools.weblinc.com/projects/WP/repos/workarea-haven-theme/browse"
   s.summary     = "Haven Theme for Workarea ecommerce platform"
   s.description = "A place of safety or refuge."
