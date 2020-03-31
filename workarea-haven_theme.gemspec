@@ -26,7 +26,6 @@ Gem::Specification.new do |s|
   s.add_dependency "workarea-shipping_message", ">= 1.2.0"
   s.add_dependency "workarea-swatches", ">= 1.0.5"
   s.add_dependency "workarea-product_quickview", ">= 2.0.2"
-  s.add_dependency "workarea-reviews", ">= 3.1.0"
   s.add_dependency "workarea-slick_slider", ">= 1.0.3"
   s.add_dependency "workarea-share", ">= 1.3.0"
   s.add_dependency "workarea-product_videos", ">= 1.3.0"
